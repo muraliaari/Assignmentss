@@ -1,0 +1,34 @@
+*{
+  margin: auto;
+
+}
+.main{
+  background: rgb(77, 77, 207);
+  width: 500px;
+  height: 300px;
+  text-align: center;
+  color: aliceblue;
+  font-size: 20px;
+  margin-top: 50px;
+}
+
+li{
+  list-style-type: none;
+  text-decoration: none;
+  color: aliceblue;
+  
+}
+
+.lists{
+  margin-top: 100px;
+  display: flex;
+  font-size: 30px;
+}
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
