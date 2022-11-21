@@ -8,7 +8,7 @@ const Home = () => {
   return (
     <div className="main">
       <h1>Component Life Cycle</h1>
-      <div className='lists' style={{color:"aliceblue"}}>
+      <div className='lists'>
         <Link to="mounting"><li>Mounting</li></Link>
         <Link to="updating"><li>Updating</li></Link>
         <Link to="unmounting"><li>UnMounting</li></Link>
